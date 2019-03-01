@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+section {
+    margin: 0 auto;
+    width: 50%;
+    background-color: rgb(14, 180, 125);
+    text-align: center;
+    height: 20px;
+}
+
+#operand1 {
+    width: 50%;
+}
+
+#operand2 {
+    width: 50%;
+    float:right;
+    margin-top: -34px;
+}
+
+
+
+article {
+    margin: 0 auto;
+    width: 80%;
+    background-color: rgb(14, 180, 125);
+    text-align: center;
+}
