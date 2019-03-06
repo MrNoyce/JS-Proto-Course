@@ -39,3 +39,4 @@ function isPreviousGuess(){
     }
     return false;
 }
+}
